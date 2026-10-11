@@ -1,0 +1,6 @@
+Pillow
+pystray
+pywin32
+opencv-python
+scikit-image
+pygame
